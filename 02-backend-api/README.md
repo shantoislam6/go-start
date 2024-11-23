@@ -2,10 +2,6 @@
 
 The goal of this project is to create an http+json API for a calculator service.
 
-## Overview
-
-An example version of this API can be found at https://calculator.dreamsofcode.io, which you can use whilst it's available. This calculator is stateless, meaning that there is no data stored in a database or in memory.
-
 ## Requirements
 
 The API should conform to the given OpenAPI spec found in this directory, which can also be viewed at this URL.
