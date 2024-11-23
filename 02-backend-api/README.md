@@ -42,14 +42,11 @@ You may want to add cors in if you intend to hit this directly from a website. T
 
 Some of the packages that I used for my implementation include:
 
-- `net/http` - This is the http package of the standard library which I use for routing and setting up an http server. If you want to know how to use this package for advanced routing, [I have a video you can check out](https://youtu.be/H7tbjKFSg58).
+- `net/http` - This is the http package of the standard library which I use for routing and setting up an http server. If you want to know how to use this package for advanced routing,
 - `encoding/json` - This package is used for encoding and decoding JSON from the request and to the response bodies.
 - `log/slog` - For structured logging
 - `github.com/rs/cors` - For cors, if you need it.
 
-## Resources
-
-You can access my implementation of this API at [https://calculator.dreamsofcode.io](https://calculator-api.dreamsofcode.io)
 
 ## Additional Tasks
 
