@@ -1,7 +1,6 @@
 # Five Go Projects
 
-This repository contains readmes for five different Go projects you can use to learn Go, as
-described in the [YouTube video by Dreams of Code](https://youtu.be/gXmznGEW9vo)
+This repository contains readmes for five different Go projects you can use to learn Go.
 
 Inside of this repository are 5 directories, each representing a single project idea.
 
